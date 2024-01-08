@@ -64,6 +64,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Challenge 5\Scripts\DestroyObjectX.cs" />
+    <Compile Include="Assets\Challenge 5\Scripts\DifficultyButtonX.cs" />
+    <Compile Include="Assets\Challenge 5\Scripts\GameManagerX.cs" />
+    <Compile Include="Assets\Challenge 5\Scripts\TargetX.cs" />
     <Compile Include="Assets\Course Library\_Source_Files\Scripts\DestroyAfterDelay.cs" />
     <Compile Include="Assets\Scripts\DifficultyButton.cs" />
     <Compile Include="Assets\Scripts\GameManager.cs" />
@@ -94,19 +98,19 @@
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_Sprite.shader" />
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface.shader" />
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>D:/ed/13-Unity/Unity Projects/Prototype 5/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>C:/Users/egersdorferdominik/Downloads/13-Unity/Unity Projects/Prototype 5/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>D:/ed/13-Unity/Unity Projects/Prototype 5/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>C:/Users/egersdorferdominik/Downloads/13-Unity/Unity Projects/Prototype 5/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>D:/ed/13-Unity/Unity Projects/Prototype 5/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>C:/Users/egersdorferdominik/Downloads/13-Unity/Unity Projects/Prototype 5/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>D:/ed/13-Unity/Unity Projects/Prototype 5/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>C:/Users/egersdorferdominik/Downloads/13-Unity/Unity Projects/Prototype 5/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.DataPrivacy">
-      <HintPath>D:/ed/13-Unity/Unity Projects/Prototype 5/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+      <HintPath>C:/Users/egersdorferdominik/Downloads/13-Unity/Unity Projects/Prototype 5/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -310,13 +314,13 @@
       <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Editor">
-      <HintPath>D:/ed/13-Unity/Unity Projects/Prototype 5/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
+      <HintPath>C:/Users/egersdorferdominik/Downloads/13-Unity/Unity Projects/Prototype 5/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.StandardEvents">
-      <HintPath>D:/ed/13-Unity/Unity Projects/Prototype 5/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll</HintPath>
+      <HintPath>C:/Users/egersdorferdominik/Downloads/13-Unity/Unity Projects/Prototype 5/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Tracker">
-      <HintPath>D:/ed/13-Unity/Unity Projects/Prototype 5/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
+      <HintPath>C:/Users/egersdorferdominik/Downloads/13-Unity/Unity Projects/Prototype 5/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
     </Reference>
     <Reference Include="netstandard">
       <HintPath>C:/Program Files/Unity/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll</HintPath>
