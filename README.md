@@ -1,4 +1,5 @@
-# 13-Unity
-5/13 Unity (2018.3.7f1) Files
+# Unity - Create with Code
 
-https://learn.unity.com/course/create-with-code
+Ez a repository a Create with Code Unity tanfolyam / kurzus megoldott projectjeit tartalmazza.
+
+> Create with Code: https://learn.unity.com/course/create-with-code
